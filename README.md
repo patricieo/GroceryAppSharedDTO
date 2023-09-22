@@ -12,4 +12,4 @@ https://www.udemy.com/course/full-stack-ios-development-using-swiftui-and-vapor/
 Took this class to learn full how to build a server with Swift.  
 
 Notes: 
-The reason we are adding ResponseDTO's and RequestDTO's in this manner is to have different parameters for both the post to the server and the return to the client.  In a large scale app It may not be desired to return all of the info back to the client.
+The reason we are adding ResponseDTO's and RequestDTO's in this manner is to have different parameters for both the post to the server and the return to the client.  In a large scale app it may not be desired to limit parameters returned to the client.
